@@ -1,7 +1,7 @@
 ## NodeMCU-ESP8266-RTC-OLED-Clock
 Vertical clock that shows the date time on a 128x64 OLED display using a NODEMCU ESP8266 and RTC module.
 <br>
-![NodeMCU-ESP8266-RTC-OLED-Clock](/Completed_NodeMCU_ESP8266_RTC_OLED_Clock.jpg?raw=true "Completed Project")
+![NodeMCU-ESP8266-RTC-OLED-Clock](/Completed_Project.jpg?raw=true "Completed Project")
 <br>
 ### Was a fun little learning project.
 
