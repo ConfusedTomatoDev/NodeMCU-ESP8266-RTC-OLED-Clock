@@ -37,7 +37,7 @@ if(!display.begin(SSD1306_SWITCHCAPVCC, 0x3C))
     // Uncomment below to see all full digits for date and time.
     // rtc.adjust(DateTime(2020, 12, 12, 12, 12, 12));
     
-// display.setRotation(3); // Rotate display 90
+// display.setRotation(3); // Rotate display 90  
  display.display();
  delay(2);
  display.clearDisplay();
@@ -129,7 +129,8 @@ display.setCursor(34,48);
 //display.print("Temp:");
 tempC = rtc.getTemperature();
 tempF = (tempC * 1.8) + 32.0;
-display.print(tempF);
+display.print(tempF);    // Comment this line out and uncomment next line for Celsius
+//display.print(tempC); 
 display.setTextSize(1);
 display.print("F");
 
