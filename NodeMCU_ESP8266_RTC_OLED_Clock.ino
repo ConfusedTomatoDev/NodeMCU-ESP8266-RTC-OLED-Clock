@@ -1,3 +1,4 @@
+// Program written based on information from this tutorial: https://lastminuteengineers.com/ds3231-rtc-arduino-tutorial/
 //#include <SPI.h>
 //#include <Wire.h>
 //#include <Adafruit_GFX.h>
