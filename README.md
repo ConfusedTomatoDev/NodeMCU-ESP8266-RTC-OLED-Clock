@@ -18,3 +18,6 @@ Vertical clock that shows the date time on a 128x64 OLED display using a NODEMCU
   <li>Breadboard with jumper wires for prototypeing projects</li>
   <li>Micro USB Cable for programming the NodeMCU</li>
 </ol>
+
+###### Portions of the code were written based on information in the following tutorial
+https://lastminuteengineers.com/ds3231-rtc-arduino-tutorial/
